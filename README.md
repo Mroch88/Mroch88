@@ -74,7 +74,3 @@
 </p>
 
 <br>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariangel060807&" alt="mariangel060807" />
-</p>
