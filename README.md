@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariángel Rodriguez Ochoa</h1>
+<h1 align="center">Hi 👋, I'm Angel Rodriguez Ochoa</h1>
 <h3 align="center">DAW Student & Junior Frontend Developer from Spain 🇪🇸</h3>
 
 <p align="left">
