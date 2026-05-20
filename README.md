@@ -108,9 +108,11 @@ Frontend project using Angular and a Dragon Ball API to display characters, saga
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariangel060807&theme=tokyonight&hide_border=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariangel060807&theme=tokyonight&hide_border=true&layout=compact" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mariangel060807&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mariangel060807&theme=tokyonight&hide_border=true" />
 
 </p>
 
