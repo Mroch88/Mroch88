@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 Mariángel Rodriguez Ochoa
+# 🐉 Mariangel Rodriguez Ochoa
 
 ### DAW Student · Frontend Developer · Dragon Soul ⚔️
 
