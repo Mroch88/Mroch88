@@ -72,15 +72,15 @@ public class Mariangel {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mroch88&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mroch88&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mroch88&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mroch88&layout=compact&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Mroch88&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Mroch88&theme=tokyonight" />
 
 </div>
 
