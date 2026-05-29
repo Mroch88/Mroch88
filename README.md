@@ -60,17 +60,9 @@ class Mariangel {
 
 ---
 
-## ⚙️ Tools
+## 📊 Most Used Languages
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=gold"/>
-
-<img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=gold"/>
-
-<img src="https://img.shields.io/badge/XAMPP-8B0000?style=for-the-badge&logo=xampp&logoColor=gold"/>
-
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mroch88&layout=compact&theme=tokyonight)
 
 ---
 
